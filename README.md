@@ -1,2 +1,2 @@
-# Semaine 7 Simplon
-Exercices CV onepage bootstrap : effet smooth scroll + portfolio
+# Semaine 8 Simplon
+Ajout d'un formulaire de contact sur le CV onepage
